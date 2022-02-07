@@ -1,3 +1,3 @@
 library ('ms-pipeline')
-//test CI
+//test
 ejecucion.call()
