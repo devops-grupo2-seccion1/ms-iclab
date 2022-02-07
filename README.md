@@ -1,6 +1,6 @@
 # Getting Started
 
-## Windowsasd
+## Windows test
 ### Compile Code
 * ./mvnw.cmd clean compile -e
 * prueba
